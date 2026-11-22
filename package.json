@@ -2,7 +2,7 @@
   "name": "mctimeline",
   "private": true,
   "version": "0.1.0",
-  "description": "Minecraft Java Edition tarihini interaktif ve çift dilli sunan zaman çizelgesi.",
+  "description": "Minecraft Java Edition timeline",
   "type": "module",
   "scripts": {
     "dev": "vite",
